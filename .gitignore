@@ -1,0 +1,20 @@
+
+# Ambiente virtual Python
+.venv/
+venv/
+
+# Cache e arquivos Python temporários
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Logs gerados
+logs/*.log
+
+# Planilhas de entrada e resultados gerados
+data/
+
+# Arquivos temporários do Windows e Excel
+Thumbs.db
+Desktop.ini
+~$*.xlsx
